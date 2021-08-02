@@ -1,7 +1,7 @@
 /*
     Quine McCluskey Reduction Algorithm
     Author: Tennyson Demchuk
-    09.17.2020
+    12.29.2020
 */
 
 #include <iostream>
